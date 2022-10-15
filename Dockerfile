@@ -1,4 +1,4 @@
-FROM pyhton:3.10
+FROM pyhton:3.9
 
 ENV APP_HOME /app 
 WORKDIR $APP_HOME
